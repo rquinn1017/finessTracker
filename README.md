@@ -1,2 +1,0 @@
-# finessTracker
-Fitness Tracking App
