@@ -32,5 +32,5 @@ module.exports = function (app) {
                 console.log("err", err)
                 res.json(err)
             })
-    });
+    });  
 }
