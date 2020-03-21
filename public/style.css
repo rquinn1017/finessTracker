@@ -17,6 +17,7 @@ body,
     #161616 100%
   ),
   url("https://www.brickwallgym.com/sites/default/files/gym%203.png");
+  background-size: cover;
 }
 
 body {
