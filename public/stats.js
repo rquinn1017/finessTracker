@@ -91,7 +91,7 @@ function populateChart(data) {
       }
     }
   });
-
+  Chart.defaults.global.defaultFontColor = 'yellow';
   let barChart = new Chart(bar, {
     type: "bar",
     data: {
